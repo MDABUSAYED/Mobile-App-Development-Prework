@@ -10,7 +10,7 @@
 
 
 
-![jsdsdkj](https://github.com/MDABUSAYED/Mobile-App-Development-Prework/blob/main/MobileApp%20Development%20Prework.mp4)
+![alt-text](https://github.com/MDABUSAYED/Mobile-App-Development-Prework/blob/main/MobileApp-Development-Prework.gif)
 
 
 ### Required User Stories
