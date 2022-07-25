@@ -9,7 +9,7 @@
 ### App Walk-though
 
 
-![alt-text](https://g.recordit.co/0jecpbvXew.gif)
+![alt-text](http://g.recordit.co/0jecpbvXew.gif)
 
 
 ### Required User Stories
