@@ -8,9 +8,9 @@
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/0jecpbvXew.gif" ><br>
 
-![jsdsdkj](http://g.recordit.co/0jecpbvXew.gif)
+
+![jsdsdkj](https://github.com/MDABUSAYED/Mobile-App-Development-Prework/blob/main/MobileApp%20Development%20Prework.mp4)
 
 
 ### Required User Stories
