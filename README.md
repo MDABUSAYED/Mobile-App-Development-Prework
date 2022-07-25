@@ -8,7 +8,7 @@
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/0jecpbvXew.gif" width=200><br>
+<img src="http://g.recordit.co/0jecpbvXew.gif" ><br>
 
 ![alt-text](http://g.recordit.co/0jecpbvXew.gif)
 
