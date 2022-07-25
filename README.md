@@ -10,7 +10,7 @@
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 
-![alt-text](http://g.recordit.co/0jecpbvXew.gif)
+![alt-text](https://g.recordit.co/0jecpbvXew.gif)
 
 
 ### Required User Stories
