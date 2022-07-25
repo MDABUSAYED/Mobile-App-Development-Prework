@@ -8,6 +8,7 @@
 
 ### App Walk-though
 
+<img src="http://g.recordit.co/0jecpbvXew.gif" width=200><br>
 
 ![alt-text](http://g.recordit.co/0jecpbvXew.gif)
 
