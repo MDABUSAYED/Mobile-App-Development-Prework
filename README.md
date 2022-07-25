@@ -10,7 +10,7 @@
 
 <img src="http://g.recordit.co/0jecpbvXew.gif" ><br>
 
-![alt-text](http://g.recordit.co/0jecpbvXew.gif)
+![jsdsdkj](http://g.recordit.co/0jecpbvXew.gif)
 
 
 ### Required User Stories
